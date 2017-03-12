@@ -8,6 +8,7 @@ package practicando;
 /**
  *
  * @author Estudiante
+ * clase main
  */
 public class Practicando {
 
